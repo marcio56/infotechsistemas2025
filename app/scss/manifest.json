@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "infotechsistemas",
-  "start_url": "/",
+  "start_url": "https://infotechsistemas.netlify.app",
   "theme_color": "#14a520",
   "categories": [],
   "screenshots": [],
