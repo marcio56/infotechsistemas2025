@@ -1,0 +1,21 @@
+{
+  "background_color": "#000000",
+  "description": "Gerenciador de tarefas escolares e profissionalização do estudante.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "infotechsistema",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "infotechsistemas",
+  "start_url": "/",
+  "theme_color": "#14a520",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "app/images/logo/Favicon.svg",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
