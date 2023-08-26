@@ -1,0 +1,31 @@
+{
+    "theme_color": "#25b507",
+    "background_color": "#0f0e0e",
+    "display": "fullscreen",
+    "scope": "/https://github.com/marcio56/infotechsistemas2025/",
+    "start_url": "/https://github.com/marcio56/infotechsistemas2025/",
+    "name": "Infotech Sistemas",
+    "short_name": "Infotech",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
