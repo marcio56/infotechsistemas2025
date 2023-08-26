@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "/infotechsistemas.netlify/",
-  "start_url": "/",
+  "start_url": "https://infotechsistemas.netlify.app",
   "theme_color": "#ffffff",
   "categories": [
     "education"
