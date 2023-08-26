@@ -2,8 +2,8 @@
     "theme_color": "#25b507",
     "background_color": "#0f0e0e",
     "display": "fullscreen",
-    "scope": "/https://github.com/marcio56/infotechsistemas2025/",
-    "start_url": "/https://github.com/marcio56/infotechsistemas2025/",
+    "scope": "/infotechsistemas2025/",
+    "start_url": "/infotechsistemas2025/",
     "name": "Infotech Sistemas",
     "short_name": "Infotech",
     "icons": [
