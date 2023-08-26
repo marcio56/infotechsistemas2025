@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "",
+  "description": "gerenciamento escolar",
   "dir": "ltr",
   "display": "standalone",
   "name": "infotechsistemas.netlify",
@@ -9,7 +9,9 @@
   "short_name": "infotechsistemas.netlify",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "educcation"
+  ],
   "screenshots": [],
   "icons": [
     {
