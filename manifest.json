@@ -3,14 +3,14 @@
   "description": "gerenciamento escolar",
   "dir": "ltr",
   "display": "standalone",
-  "name": "infotechsistemas.netlify",
+  "name": "/infotechsistemas.netlify/",
   "orientation": "any",
   "scope": "/",
-  "short_name": "infotechsistemas.netlify",
+  "short_name": "/infotechsistemas.netlify/",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
-    "educcation"
+    "education"
   ],
   "screenshots": [],
   "icons": [
